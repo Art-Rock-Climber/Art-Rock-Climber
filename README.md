@@ -65,7 +65,7 @@
   </a>
   <img width="10" />
   
-  <a href="https://t.me/soonmaythewlademarcome" target="_blank">
+  <a href="https://t.me/vladisntlov3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" />
   </a>
   <img width="10" />
