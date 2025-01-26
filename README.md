@@ -13,12 +13,11 @@
 Знаком с фреймворком <strong>Windows Presentation Foundation (WPF)</strong>, библиотеками <strong>NAudio</strong> для C# (в особенности с функциями в NAudio.Midi) и <strong>Flet</strong> для Python. 
 Уверенно владею стандартными программами Windows (<strong>Word, Excel и PowerPoint</strong>), а также: <strong>Figma, Xmind, Miro, DataLens Yandex</strong>. 
 Умею работать в системе контроля версий <strong>GitHub</strong>. 
-Также активно учусь работать со звуком в <strong>Cakewalk</strong> и <strong>Ableton</strong>. 
+Также активно учусь работать со звуком в <strong>Cakewalk</strong>. 
 </p>
 <p align="left">
 В свободное время занимаюсь творчеством: пишу собственные песни на гитаре 🎸 (а иногда других инструментах) и стихи 📜✍. Также немного увлекаюсь танцами 🕺 и рисованием 🎨. Касаемо спорта, хожу на скалолазание 🧗‍♂️ и настольный теннис 🏓, тренирую элементы на турниках 💪.
 </p>
-
 
 <h3 align="left">💻 Технологии:</h3>
 <div align="left">
@@ -47,7 +46,7 @@
 
 <h3 align="left">🔥 Моя статистика :</h3>
 <div align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Art-Rock-Climber&theme=dark&locale=ru&mode=daily&hide_border=false&border_radius=5" width="500" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Art-Rock-Climber&theme=dark&locale=ru" alt="streak graph" />
 </div>
 
 <div align="left">
