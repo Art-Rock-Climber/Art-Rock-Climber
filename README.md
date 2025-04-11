@@ -25,23 +25,44 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://github.com/dotnet/efcore/blob/main/logo/ef-logo.svg" height="40" alt="ef logo" />
+  <img width="12" />
 </div>
 
 <h3 align="left">🛠️ Инструменты:</h3>
 <div align="left">
+  <img src="https://github.com/user-attachments/assets/80fd3728-7bf9-4baa-a999-f63544953db3" height="40" alt="github logo" />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="wpf and dot net logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img width="12" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Manim_icon.svg" height="40" alt="manim logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" height="40" alt="latex logo" />
+  <img width="12" />
+  
+  <img src="https://avatars.mds.yandex.net/i?id=5646a88bc75f530726ef9d13b1953a8e_l-10414582-images-thumbs&n=13" height="40" alt="datalens logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/f088a8f2-ccec-4f54-b6b5-e759eb84e511" height="40" alt="xmind logo" />
   <img width="12" /> 
   <img src="https://github.com/user-attachments/assets/4ff385eb-5ca1-4094-9250-064bf55ce335" height="40" alt="miro logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/80fd3728-7bf9-4baa-a999-f63544953db3" height="40" alt="github logo" />
-  <img width="12" /> 
-  <img src="https://avatars.mds.yandex.net/i?id=5646a88bc75f530726ef9d13b1953a8e_l-10414582-images-thumbs&n=13" height="40" alt="datalens logo" />
-  <img width="12" />
 </div>
+
+[//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg"
+[//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/xamarin/xamarin-original.svg"
+[//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/"
 
 
 <h3 align="left">🔥 Моя статистика :</h3>
