@@ -17,7 +17,7 @@
 * <strong>Windows Presentation Foundation (WPF)</strong>
 * <strong>Flet</strong>
 
-Библиотеками 
+Библиотеками
 
 * <strong>Ant-design, PrimeReact, Tabulator</strong> для таблиц React
 * <strong>AntV G6</strong> для графов React
@@ -34,7 +34,16 @@
 
 [//]: # "и рисованием 🎨"
 
-<h3 align="left">💻 Технологии:</h3>
+
+<details>
+<summary><h3 align="left">💻 Технологии:</h3></summary>
+  
+- **C# / .NET** (Entity Framework Core, LINQ, ASP.NET Core)
+- **Node.js** (React)
+- **Python** (Colab, Flet)
+- **R** (RStudio)
+- **Базы данных** (PostgreSQL, EF Core)
+</details>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
@@ -54,7 +63,15 @@
   <img width="12" />
 </div>
 
-<h3 align="left">🛠️ Инструменты программирования:</h3>
+<details>
+<summary><h3 align="left">🛠️ Инструменты программирования:</h3></summary>
+  
+- **Github**
+- **Visual Studio / VS Code / PyCharm**
+- **Colab, Kaggle**
+- **Matplotlib, NumPy, Manim**
+- **Figma**
+</details>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" /> 
@@ -80,7 +97,12 @@
   <img width="12" />
 </div>
 
-<h3 align="left">🛠️ Инструменты аналитики:</h3>
+<details>
+<summary><h3 align="left">🛠️ Инструменты аналитики:</h3></summary>
+  
+- **Yandex.Metrika / Wordstat / Datalens / keys.so**
+- **bpmn.io / Dbdiagram / Miro / plantuml**
+</details>
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Yandex_Metrica_icon.svg/960px-Yandex_Metrica_icon.svg.png" height="40" alt="ya metrika logo" />
   <img width="12" />
@@ -100,6 +122,29 @@
 [//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/"
 
 
+<details>
+<summary><h4 align="left">График компетенций:</h3></summary>
+  
+```mermaid
+graph TD
+    A[Мои компетенции] --> B[Программирование]
+    A --> C[Дизайн]
+    A --> D[Аналитика]
+    
+    B --> B1[C# / .NET]
+    B --> B2[Python, R]
+    B --> B3[Node.js]
+    
+    C --> C1[Figma]
+    C --> C2[Прототипирование]
+    
+    D --> D1[Ya Metrica, DataLens]
+    D --> D2[SQL]
+    D --> D3[Excel]
+```
+</details>
+
+
 <h3 align="left">📚 Пройденные курсы:</h3>
 
 | Курс | Платформа / ВУЗ | Год | Статус |
@@ -107,6 +152,7 @@
 | [Веб-аналитика для цифрового маркетинга](https://disk.yandex.ru/i/21QA12cN4ATjMA) | СИТУ | 2025 | ✅ Завершен |
 | ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info) | Stepik | 2021 | ✅ [Завершен](https://stepik.org/cert/1308369)|
 | ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/info) | Stepik | 2022 | 📚 В процессе |
+
 
 <h3 align="left">🔥 Моя статистика :</h3>
 <div align="left">
