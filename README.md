@@ -9,14 +9,27 @@
 <h3 align="left">👀 (Не)много обо мне:</h3>
 <p align="left">
 Я студент Высшей Школы Экономики 🤓 по программе <strong>"Бизнес-информатика"</strong> с 2023 года. 
-На базовом уровне владею языками программирования <strong>C#</strong> и <strong>Python</strong>. 
-Знаком с фреймворком <strong>Windows Presentation Foundation (WPF)</strong>, библиотеками <strong>NAudio</strong> для C# (в особенности с функциями в NAudio.Midi) и <strong>Flet</strong> для Python. 
-Уверенно владею стандартными программами Windows (<strong>Word, Excel и PowerPoint</strong>), а также: <strong>Figma, Xmind, Miro, DataLens Yandex</strong>. 
+На базовом уровне владею языками программирования <strong>C#</strong>, <strong>Python</strong>, <strong>R</strong> и <strong>Node.js</strong>. 
+Знаком с фреймворками:
+  
+* <strong>ASP.NET (WPF)</strong>
+* <strong>React</strong>
+* <strong>Windows Presentation Foundation (WPF)</strong>
+* <strong>Flet</strong>
+
+Библиотеками 
+
+* <strong>Ant-design, PrimeReact, Tabulator</strong> для таблиц React
+* <strong>AntV G6</strong> для графов React
+* <strong>NumPy, SciPy, Matplotlib, Pandas, Manim</strong> для вычислений и визуализации математики
+* <strong>NAudio.midi</strong> для звука музыкальных инструментов
+
+Уверенно владею стандартными программами Windows (<strong>Word, Excel и PowerPoint</strong>), а также: <strong>Яндекс.Метрика, BPMN.io, Xmind, Miro, DataLens Yandex</strong>. 
 Умею работать в системе контроля версий <strong>GitHub</strong>. 
 Также активно учусь работать со звуком в <strong>Cakewalk</strong>. 
 </p>
 <p align="left">
-В свободное время занимаюсь творчеством: пишу собственные песни на гитаре 🎸 (а иногда других инструментах) и стихи 📜✍. Также немного увлекаюсь танцами 🕺. Касаемо спорта, хожу на скалолазание 🧗‍♂️ и настольный теннис 🏓, тренирую элементы на турниках 💪.
+В свободное время занимаюсь творчеством: пишу собственные песни на гитаре 🎸 (а иногда других инструментах) и стихи 📜✍. Также увлекаюсь танцами, в основном историческими 🕺. Касаемо спорта, занимался скалолазанием 🧗‍♂️ и настольным теннисом 🏓, тренирую элементы на турниках 💪.
 </p>
 
 [//]: # "и рисованием 🎨"
@@ -27,33 +40,52 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://github.com/dotnet/efcore/blob/main/logo/ef-logo.svg" height="40" alt="ef logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="wpf and dot net logo" />
+  <img width="12" />
 </div>
 
-<h3 align="left">🛠️ Инструменты:</h3>
+<h3 align="left">🛠️ Инструменты программирования:</h3>
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/80fd3728-7bf9-4baa-a999-f63544953db3" height="40" alt="github logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="wpf and dot net logo" />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/googlecolab/googlecolab-original.svg" height="40" alt="colab logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="kaggle logo" />
+  <img width="12" />
+
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Manim_icon.svg" height="40" alt="manim logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" height="40" alt="latex logo" />
   <img width="12" />
-  
+</div>
+
+<h3 align="left">🛠️ Инструменты аналитики:</h3>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Yandex_Metrica_icon.svg/960px-Yandex_Metrica_icon.svg.png" height="40" alt="ya metrika logo" />
+  <img width="12" />
+  <img src="https://github.com/bpmn-io/bpmn.io/blob/main/src/assets/img/favicon.svg" height="40" alt="bpmn io logo" />
+  <img width="12" />
   <img src="https://avatars.mds.yandex.net/i?id=5646a88bc75f530726ef9d13b1953a8e_l-10414582-images-thumbs&n=13" height="40" alt="datalens logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/f088a8f2-ccec-4f54-b6b5-e759eb84e511" height="40" alt="xmind logo" />
@@ -62,10 +94,19 @@
   <img width="12" /> 
 </div>
 
-[//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg"
+
 [//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/xamarin/xamarin-original.svg"
+[//]: # "https://www.ph4.org/_RU/DL/LOGO_ICON/y/ya_metrika.gif"
 [//]: # "https://github.com/devicons/devicon/blob/v2.16.0/icons/"
 
+
+<h3 align="left">📚 Пройденные курсы:</h3>
+
+| Курс | Платформа / ВУЗ | Год | Статус |
+|------|-----------------|-----|--------|
+| [Веб-аналитика для цифрового маркетинга](https://disk.yandex.ru/i/21QA12cN4ATjMA) | СИТУ | 2025 | ✅ Завершен |
+| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info) | Stepik | 2021 | ✅ [Завершен](https://stepik.org/cert/1308369)|
+| ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/info) | Stepik | 2022 | 📚 В процессе |
 
 <h3 align="left">🔥 Моя статистика :</h3>
 <div align="left">
