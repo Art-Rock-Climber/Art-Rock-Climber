@@ -191,7 +191,7 @@ graph TD
 Рабочая почта: vobannikov@edu.hse.ru
 
 
-<h2 align="center">До скорых встреч!</h2>
+<h2 align="center">Приятного просмотра!</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/s0aJKJuQaZ3rO/giphy.gif?cid=ecf05e471qnmg4v48llmeid38zchg2xx35h597vgyf08m4jl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
